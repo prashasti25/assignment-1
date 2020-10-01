@@ -1,2 +1,2 @@
 # assignment-1
-module 2 repository assignment
+module 2 repository assignment solution
